@@ -11,7 +11,12 @@ Esta guía te muestra cómo hacer un backup de tu base de datos MongoDB desde Mo
    ```
    mongodb+srv://guerranell25_db_user:lxhZ4U2E6rA6VdrM@terranovamillion.8nyyhse.mongodb.net/PropertyDB?retryWrites=true&w=majority
    ```
-3. Haz clic en **"Connect"**
+3. Credenciales
+Usuario: guerranell25_db_user
+Contraseña: lxhZ4U2E6rA6VdrM
+
+4. Haz clic en **"Connect"**
+
 
 ### 2. Exportar Colecciones a JSON
 
