@@ -134,3 +134,12 @@ appsettings.*.json
 !appsettings.json
 !appsettings.*.example
 
+# Database backups (excluir backups reales, permitir ejemplos)
+database/backups/*.json
+database/backups/*.bson
+database/exports/*.json
+!database/backups/*.example.json
+!database/exports/*.example.json
+!database/backups/README.md
+!database/exports/README.md
+
