@@ -107,7 +107,7 @@ Abre el archivo `src/PropertyAPI/appsettings.json` y verifica la configuración:
 
 1. **Navega al directorio del proyecto:**
 ```bash
-cd "C:\Proyecto .net\src\PropertyAPI"
+cd "C:\Ruta en donde clonaste el proyecto\src\PropertyAPI"
 ```
 
 2. **Restaura las dependencias:**
