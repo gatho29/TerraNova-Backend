@@ -1,0 +1,16 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "MongoDB": "mongodb+srv://usuario:password@cluster.mongodb.net/PropertyDB?retryWrites=true&w=majority"
+  },
+  "MongoDB": {
+    "DatabaseName": "PropertyDB"
+  }
+}
+
